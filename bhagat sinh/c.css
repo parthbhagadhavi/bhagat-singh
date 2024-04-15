@@ -1,0 +1,61 @@
+.h{
+    color: black;
+    text-align: center;
+    background-color: bisque;
+    font-family: cursive;
+    letter-spacing: 3px;
+    text-spacing:"15px";
+}
+.b{
+    border: 10px solid pink;
+    border-radius: 10px;
+    height: 900px;
+    width: 1800px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFw4ZfLdxs14gtQbMl_jhhEXH8UXmKlFUOuQ&usqp=CAU");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    background-attachment: fixed;
+}
+@font-face {
+    font-family:hyy;
+    src: url("DancingScript-VariableFont_wght.ttf");
+}
+.j{
+    text-indent: 200px;
+    text-transform: 1000px;
+    border: 5px dashed pink;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    font-size:50px;
+    background-color: bisque;
+    font-family:hyy;
+    letter-spacing: 2px;
+    text-spacing:"18px";
+}
+.l{
+
+    border: 10px solid pink;
+    border-radius: 10px;
+    height: 900px;
+    width: 1800px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFw4ZfLdxs14gtQbMl_jhhEXH8UXmKlFUOuQ&usqp=CAU");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    background-attachment: fixed;
+}
+.g{
+
+        border: 10px dotted pink;
+        border-radius: 10px;
+        height: 900px;
+        width: 1800px;
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedMQ-87aMv-6zPP0jTwiaosv5iiV0P7yjXg&usqp=CAU");
+        
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 1800px;
+        background-attachment: fixed;
+}
